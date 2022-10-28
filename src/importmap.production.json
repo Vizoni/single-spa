@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@rvp/root-config": "http://localhost:9000/rvp-root-config.js",
+    "@rvp/react-single": "http://localhost:8500/rvp-react-single.js",
+    "@rvp/react-multiples": "http://localhost:8500/rvp-react-multiples.js",
+    "@rvp/react-parcel": "http://localhost:8501/rvp-react-parcel.js",
+    "@rvp/react-route": "http://localhost:8500/rvp-react-route.js",
+    "@rvp/react-lazy": "http://localhost:8500/rvp-react-lazy.js",
+    "@rvp/utils": "http://localhost:8600/rvp-utils.js",
+    "@rvp/react-header": "http://localhost:8700/rvp-react-header.js"
+  }
+}
